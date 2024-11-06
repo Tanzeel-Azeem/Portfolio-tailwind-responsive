@@ -9,7 +9,7 @@ const Project = () => {
       
       
       
-      <div className='text-center mt-16 md:flex md:flex-wrap  md:justify-evenly md:gap-6 ml-28 justify-center'>
+      <div className='text-center mt-16 md:flex md:flex-wrap  md:justify-evenly md:gap-6 ml-[20px] justify-center'>
         {/* cards start here */}
 
 
